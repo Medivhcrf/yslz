@@ -1,5 +1,5 @@
-#if !defined(YYZL_GREETING_HELLO_HPP)
-#define YYZL_GREETING_HELLO_HPP
+#if !defined(YSLZ_GREETING_HELLO_HPP)
+#define YSLZ_GREETING_HELLO_HPP
 
 #include <string_view>
 
@@ -11,4 +11,4 @@ namespace yslz
     }
 };
 
-#endif // !defined(YYZL_GREETING_HELLO_HPP)
+#endif // !defined(YSLZ_GREETING_HELLO_HPP)
