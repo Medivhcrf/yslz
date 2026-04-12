@@ -1,5 +1,5 @@
-#if !defined(YYZL_ALGORITHM_MAX_HPP)
-#define YYZL_ALGORITHM_MAX_HPP
+#if !defined(YSLZ_ALGORITHM_MAX_HPP)
+#define YSLZ_ALGORITHM_MAX_HPP
 
 namespace yslz
 {
@@ -10,4 +10,4 @@ namespace yslz
     }
 };
 
-#endif // !defined(YYZL_ALGORITHM_MAX_HPP)
+#endif // !defined(YSLZ_ALGORITHM_MAX_HPP)
